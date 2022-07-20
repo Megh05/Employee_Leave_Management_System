@@ -1,2 +1,2 @@
 # employee-management-system
-employee management system for student (MCA, BE)
+employee management system built in JSP (Java Server Pages)
